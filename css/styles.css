@@ -1,0 +1,17 @@
+.subsection.header {
+    color: red;
+  }
+
+.subsection#preview {
+    color: blue;
+  }
+
+  .read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+p {
+	color: #1100ff;
+  }
